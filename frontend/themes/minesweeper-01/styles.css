@@ -1,0 +1,6 @@
+@import url('./main-layout.css');
+
+.minesweeper-button {
+    color: cyan;
+    padding: 0;
+}
